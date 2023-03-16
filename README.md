@@ -1,7 +1,7 @@
 ### Olá 👋
 
 ### Sobre mim
-- Tenho 19 anos
+- Tenho 20 anos
 - Gosto de aprender coisas novas e estou aprendendo a aprender
 - Atualmente curso ADS na Fatec de Ribeirão Preto
 - Gosto de esportes, música, filmes, livros e programação
