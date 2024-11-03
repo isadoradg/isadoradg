@@ -1,19 +1,15 @@
-### Olá 👋
+### Olá :blush:
 
-### Sobre mim
-- Tenho 21 anos
-- Gosto de aprender coisas novas e estou aprendendo a aprender
-- Atualmente curso ADS na Fatec de Ribeirão Preto
-- Gosto de esportes, música, filmes, livros e programação
+### Sobre mim :cherry_blossom:
+- Gosto de esportes, música, filmes, livros e programação;
+- Gosto de aprender coisas novas, e estou aprendendo a aprender;
+- Graduada em Análise e Desenvolvimento de Sistemas na Fatec de Ribeirão Preto (1/2024).
+PS. :thought_balloon:: Sou entusiasta a gamer, a confeiteira e praticante de artes marciais... ah, e adoro um plot twist.
 
-### Tecnologias
-Conheço C++, Java e o PostgreSQL.
+### Tecnologias :computer:
+- Conheço um pouco das liguagens C++ e Java, e do banco de dados PostgreSQL.
+- Atualmente estou trabalhando em um projeto pessoal (a princípio voltado para confeitaria), e sigo estudando um pouco de Programação Web para aprimorar o desenvolvimento dessa aplicação.
 
-### Currículo
-<a href="" target="_blank">Currículo</a>
-
-### Contato
+### Contato :mag_right:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isadora-domingos-8461601a0/)
-
-
 
