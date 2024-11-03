@@ -4,7 +4,7 @@
 - Gosto de esportes, música, filmes, livros e programação;
 - Gosto de aprender coisas novas, e estou aprendendo a aprender;
 - Graduada em Análise e Desenvolvimento de Sistemas na Fatec de Ribeirão Preto (1/2024).
-PS. :thought_balloon:: Sou entusiasta a gamer, a confeiteira e praticante de artes marciais... ah, e adoro um plot twist.
+<br>PS. :thought_balloon:: Sou entusiasta a gamer, a confeiteira e praticante de artes marciais... ah, e adoro um plot twist.
 
 ### Tecnologias :computer:
 - Conheço um pouco das liguagens C++ e Java, e do banco de dados PostgreSQL.
